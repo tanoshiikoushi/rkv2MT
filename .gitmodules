@@ -1,0 +1,3 @@
+[submodule "extern/libRKV2"]
+	path = extern/libRKV2
+	url = https://github.com/tanoshiikoushi/libRKV2.git
